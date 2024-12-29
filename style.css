@@ -16,7 +16,7 @@ main {
 }
 
 .container {
-    background-image: -moz-linear-gradient(25deg, #b4b4b448, #ffffff48);
+    background-image: linear-gradient(25deg, #b4b4b448, #ffffff48);
     box-shadow: -5px 5px 5px rgba(124, 124, 124, 0.295);
     text-align: center;
     margin: 0 20px;
